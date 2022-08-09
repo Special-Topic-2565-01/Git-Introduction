@@ -17,7 +17,7 @@ __รูปที่ 1__
 ### ฝั่ง Local repository ###
 
 เมื่อผู้ใช้สร้าง local repository ขึ้นใน folder ที่กำลังแก้ไข source code นั้น โปรแกรม  git ก็จะสร้างโฟลเดอร์ที่มี attribute เป็น hidden โดยตั้งชื่อว่า .git 
-ทำหน้าที่เป็น local repository เพื่อเอาไว้ sync กับ remote repository บน server
+ทำหน้าที่เป็น local repository เพื่อเอาไว้เก็บการติดตามการเปลี่ยนแปลงและ sync กับ remote repository บน server
 
 หากเราต้องการจะเข้าไปดูไฟล์ต่าง ๆ ในโฟลเดอร์นั้น เราต้องกำหนดตัวเลือกแสดง Hidden Items ของ file browser (1) ก็จะทำให้มองเห็นโฟลเดอร์หรือไฟล์ที่ซ่อนอยู่ (2)
 
