@@ -60,19 +60,4 @@ __รูปที่ 4__ ตัวอย่างไฟล์และโฟล�
 ### ฝั่ง remote (git Server) ###
 
 
-![image](./Pictures/gi-intro/Slide3.PNG)
-
-รูปที่ 2
-
-![image](./Pictures/gi-intro/Slide4.PNG)
-
-รูปที่ 3
-
-![image](./Pictures/gi-intro/Slide5.PNG)
-
-รูปที่ 4
-
-![image](./Pictures/gi-intro/Slide6.PNG)
-
-รูปที่ 5
  
