@@ -84,4 +84,4 @@ $ git config user.email
 
 __รูปที่ 1.5__ git config --global user.email
 
-### ขั้นตอนต่อไป การสร้าง repository ###
+### ขั้นตอนต่อไป [การสร้าง repository](Create-Repository.md) ###
