@@ -65,8 +65,23 @@ $ git config user.name
 __รูปที่ 1.4__ git config --global user.name
 
 
+1.2.6 บอกให้ Git รู้จัก email ของเรา  โดยพิมพ์คำสั่งต่อไปนี้
 
+```
+$ git config --global user.email “USER EMAIL ADDRESS”
+```
 
+ในกรณีที่เราต้องการทราบชื่อผู้ใช้ปัจจุบัน สามารถสั่งให้ Git รายงานออกมาด้วยการพิมพ์คำสั่งต่อไปนี้
 
+```
+$ git config user.email
+```
 
+หมายเหตุ  email ที่ใช้จะต้องตรงกับ email ที่ลงทะเบียนไว้กับ Github มิฉะนั้นจะไม่สามารถเขียนข้อมูลขึ้นไปบน server ได้ 
+เมื่อทำในขั้นตอน 1.2.5 และ 1.2.6 เรียบร้อยแล้ว การทำงานใดๆ บน Github ก็จะปรากฏชื่อและ Email ของเรากำกับไว้เสมอ 
 
+![image](https://user-images.githubusercontent.com/567256/183628515-8ce06eb9-9308-40df-ae42-58b5c1b0215c.png)
+
+__รูปที่ 1.5__ git config --global user.email
+
+## ขั้นตอนต่อไป ##
