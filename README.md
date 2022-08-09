@@ -21,6 +21,9 @@ git เป็น software ควบคุม version ที่มีการเ
 
 หากเราต้องการจะเข้าไปดูไฟล์ต่าง ๆ ในโฟลเดอร์นั้น เราต้องกำหนดตัวเลือกของ file browser ให้มองเห็นโฟลเดอร์ที่ซ่อนอยู่
 
+![image](https://user-images.githubusercontent.com/567256/183675018-fadccd89-a0c9-460b-ad7b-0fd7cc54bc33.png)
+
+
 #### ภายในโฟลเดอร์ .git ####
 ภายในโฟลเดอร์ .git (local repository) จะมีองค์ประกอบสองอย่างคือ 
 
