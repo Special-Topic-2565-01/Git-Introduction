@@ -8,9 +8,11 @@ git เป็น software ควบคุม version ที่มีการเ
 
 ภาพรวมในการทำงานของ git ทั้งฝั่ง local และ server แสดงได้ดังรูปที่ 1
 
-![image](./Pictures/gi-intro/Slide2.PNG)
+<p align="center">
+  <img src="./Pictures/gi-intro/Slide2.PNG">
+ <br><br><b>รูปที่ 1</b> ภาพรวมในการทำงานของ git ทั้งฝั่ง local และ server
+</p>
 
-__รูปที่ 1__
 
 จากรูปที่ 1 ถ้าแบ่งตามลักษณะของคอมพิวเตอร์ที่ใช้ในการพัฒนาโปรแกรม เราสามารถแบ่งออกได้เป็น 2 ฝั่งได้แก่ ฝั่ง local repository (หรือ Local Computer)  และ remote repository (หรือ Git Server)
 
@@ -21,9 +23,11 @@ __รูปที่ 1__
 
 หากเราต้องการจะเข้าไปดูไฟล์ต่าง ๆ ในโฟลเดอร์ .git เราต้องกำหนดตัวเลือกแสดง Hidden Items ของ file browser (1) ก็จะทำให้มองเห็นโฟลเดอร์หรือไฟล์ที่ซ่อนอยู่ (2)
 
-![image](https://user-images.githubusercontent.com/567256/183675018-fadccd89-a0c9-460b-ad7b-0fd7cc54bc33.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/567256/183675018-fadccd89-a0c9-460b-ad7b-0fd7cc54bc33.png">
+ <br><br><b>รูปที่ 2</b>  การกำหนดตัวเลือกของ file browser ให้มองเห็นโฟลเดอร์ .git
+</p>
 
-__รูปที่ 2__  การกำหนดตัวเลือกของ file browser ให้มองเห็นโฟลเดอร์ .git
 
 
 #### ภายในโฟลเดอร์ .git ####
